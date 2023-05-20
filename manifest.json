@@ -1,0 +1,25 @@
+{
+    "name": "QOG",
+    "description": "Quant Option Group Web App",
+    "icons": [
+        {
+            "src": "/logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/logo_alpha.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "monochrome"
+        },
+        {
+            "src": "/logo_maskable.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone"
+}
